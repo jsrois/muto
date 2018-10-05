@@ -1,6 +1,10 @@
 # muto
+
+
 An project dashboard to show your team progress and do forecasting. Built with Scala, React, Love and no estimates. 
  
+[![Build Status](https://travis-ci.com/jsrois/muto.svg?branch=master)](https://travis-ci.com/jsrois/muto)
+[![Waffle.io - Columns and their card count](https://badge.waffle.io/jsrois/muto.svg?columns=all)](https://waffle.io/jsrois/muto)
 
 ## Wishlist 💡
 
